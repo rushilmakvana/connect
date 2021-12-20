@@ -1,38 +1,22 @@
-.App {
-  text-align: center;
+/* :root {
+  --main-bg: blue;
+  --fonts: "Hind Siliguri", sans-serif;
+  --hover-bg: rgb(31, 31, 221);
+  font-family: 'Rubik', sans-serif;;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--fonts);
+} */
+/* html {
+  overflow-x: hidden;
+} */
+::placeholder {
+  color: rgb(27, 27, 27);
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+body {
+  /* background-repeat: ; */
+  background-color: #f5f6f8 !important;
 }
