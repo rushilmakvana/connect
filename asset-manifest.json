@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/connect2/static/css/main.4017158d.chunk.css",
+    "main.js": "/connect2/static/js/main.ee9ac00f.chunk.js",
+    "main.js.map": "/connect2/static/js/main.ee9ac00f.chunk.js.map",
+    "runtime-main.js": "/connect2/static/js/runtime-main.11a57249.js",
+    "runtime-main.js.map": "/connect2/static/js/runtime-main.11a57249.js.map",
+    "static/css/2.a68952f4.chunk.css": "/connect2/static/css/2.a68952f4.chunk.css",
+    "static/js/2.38879137.chunk.js": "/connect2/static/js/2.38879137.chunk.js",
+    "static/js/2.38879137.chunk.js.map": "/connect2/static/js/2.38879137.chunk.js.map",
+    "static/js/3.1aef5fd0.chunk.js": "/connect2/static/js/3.1aef5fd0.chunk.js",
+    "static/js/3.1aef5fd0.chunk.js.map": "/connect2/static/js/3.1aef5fd0.chunk.js.map",
+    "index.html": "/connect2/index.html",
+    "service-worker.js": "/connect2/service-worker.js",
+    "service-worker.js.map": "/connect2/service-worker.js.map",
+    "static/css/2.a68952f4.chunk.css.map": "/connect2/static/css/2.a68952f4.chunk.css.map",
+    "static/css/main.4017158d.chunk.css.map": "/connect2/static/css/main.4017158d.chunk.css.map",
+    "static/js/2.38879137.chunk.js.LICENSE.txt": "/connect2/static/js/2.38879137.chunk.js.LICENSE.txt",
+    "static/media/intlTelInput.css": "/connect2/static/media/flags@2x.9d5328fb.png",
+    "static/media/loader3.0d3f004a.gif": "/connect2/static/media/loader3.0d3f004a.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11a57249.js",
+    "static/css/2.a68952f4.chunk.css",
+    "static/js/2.38879137.chunk.js",
+    "static/css/main.4017158d.chunk.css",
+    "static/js/main.ee9ac00f.chunk.js"
+  ]
+}
